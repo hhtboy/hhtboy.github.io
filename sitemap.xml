@@ -2,32 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hhtboy.githup.io/about/</loc>
+    <loc>https://hhtboy.github.io/about/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhtboy.githup.io/posts/hello/</loc>
+    <loc>https://hhtboy.github.io/posts/hello/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhtboy.githup.io/posts/</loc>
+    <loc>https://hhtboy.github.io/posts/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhtboy.githup.io/</loc>
+    <loc>https://hhtboy.github.io/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhtboy.githup.io/showcase/</loc>
+    <loc>https://hhtboy.github.io/showcase/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hhtboy.githup.io/test1/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <loc>https://hhtboy.github.io/categories/</loc>
   </url><url>
-    <loc>https://hhtboy.githup.io/test2/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hhtboy.githup.io/test3/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hhtboy.githup.io/categories/</loc>
-  </url><url>
-    <loc>https://hhtboy.githup.io/tags/</loc>
+    <loc>https://hhtboy.github.io/tags/</loc>
   </url>
 </urlset>
