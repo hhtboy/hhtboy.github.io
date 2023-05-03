@@ -54,6 +54,42 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
     </item>
     
     <item>
+      <title>test1</title>
+      <link>https://hhtboy.github.io/test1/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hhtboy.github.io/test1/</guid>
+      <description>Hi there this is test1</description>
+      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
+&lt;p&gt;this is test1&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>https://hhtboy.github.io/test2/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hhtboy.github.io/test2/</guid>
+      <description>Hi there this is test2</description>
+      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
+&lt;p&gt;this is test2&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>test3</title>
+      <link>https://hhtboy.github.io/test3/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hhtboy.github.io/test3/</guid>
+      <description>Hi there this is test3</description>
+      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
+&lt;p&gt;this is test3&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Showcase</title>
       <link>https://hhtboy.github.io/showcase/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
