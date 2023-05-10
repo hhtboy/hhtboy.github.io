@@ -8,14 +8,29 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hhtboy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://hhtboy.github.io/about/</link>
+      <pubDate>Wed, 10 May 2023 06:35:30 +0000</pubDate>
+      
+      <guid>https://hhtboy.github.io/about/</guid>
+      <description>This is new blog that i created.</description>
+      <content>&lt;p&gt;This is new blog that i created.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>history</title>
       <link>https://hhtboy.github.io/history/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hhtboy.github.io/history/</guid>
-      <description>이력 없음</description>
+      <description>이력  신목고등학교 졸업 항공대학교 소프트웨어학과 입학 2023년 항공대 해커톤 참가  </description>
       <content>&lt;h1 id=&#34;이력&#34;&gt;이력&lt;/h1&gt;
-&lt;p&gt;없음&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;신목고등학교 졸업&lt;/li&gt;
+&lt;li&gt;항공대학교 소프트웨어학과 입학&lt;/li&gt;
+&lt;li&gt;2023년 항공대 해커톤 참가&lt;/li&gt;
+&lt;/ol&gt;
 </content>
     </item>
     
